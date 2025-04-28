@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Solar System
 
 A 3D visualization of the solar system built with [Flutter](https://flutter.dev/) framework.
@@ -49,3 +50,6 @@ If you're interested in contributing to this project, please feel free to submit
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# Mobile_ar
+>>>>>>> 6397e7da4c3eb87bdbbeb8e856f3327aa58d57bb
