@@ -80,11 +80,6 @@ class _HomeSceneState extends State<HomeScene> {
                     ),
                   ),
                   const SceneTitileWidget(),
-                  const Positioned(
-                    bottom: 20,
-                    left: 20,
-                    child: CreditWidget(),
-                  ),
                 ],
               ),
             ],
